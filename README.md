@@ -1,3 +1,4 @@
+![logo](https://github.com/adarsh0408/adarsh0408/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Adarsh Shukla</h1>
 <h3 align="center">👋 Hello there! I'm [Your Name], a passionate Full Stack Developer with a strong foundation in web technologies. My skill set includes HTML, CSS, JavaScript, Angular, Node.js, MySQL, and MSSQL Server. 🎓 I hold a B.Tech degree in Computer Science, providing me with a solid academic background to complement my hands-on experience. My journey in the world of technology has been exciting and dynamic, and I thrive on tackling new challenges and staying ahead of the curve.</h3>
 
