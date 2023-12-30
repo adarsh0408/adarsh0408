@@ -13,7 +13,7 @@
 - 📫 How to reach me **adarsh.04082002@gmail.com**
 
 - ⚡ Fun fact **🌍✈️ Fun Fact: When I'm not crafting code or diving into databases, you'll find me exploring the world as a passionate traveler! I've not only mastered the art of Full Stack development but also the art of finding the best travel destinations. Oh, and did I mention I'm a part-time comedian? I believe a good laugh can brighten anyone's day, so don't be surprised if you find a sprinkle of humor in my code comments! 😄🚀**
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh0408&" alt="adarsh0408" />
+ <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh0408&" alt="adarsh0408" /></p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/adarsh shukla" target="blank"><img align="center" src="https://i.imgur.com/YDs0eeZ.png" alt="adarsh shukla" height="30" width="40" /></a>
