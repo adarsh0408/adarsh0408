@@ -1,5 +1,5 @@
 ![logo](https://i.imgur.com/rmIAWiB.png)
-<h1 align="center">Hii 👋, I'm Adarsh Shukla</h1>
+<h1 align="center">Hello 👋, I'm Adarsh Shukla</h1>
 <h3 align="center">👋 Hello there! I'm Adarsh Shukla, a passionate Full Stack Developer with a strong foundation in web technologies. My skill set includes HTML, CSS, JavaScript, Angular, Node.js, MySQL, and MSSQL Server. 🎓 I hold a B.Tech degree in Computer Science, providing me with a solid academic background to complement my hands-on experience. My journey in the world of technology has been exciting and dynamic, and I thrive on tackling new challenges and staying ahead of the curve.</h3>
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
